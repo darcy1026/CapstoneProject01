@@ -1,4 +1,4 @@
-# capstone_project
+# This is a Capstone_Project for then busiest airports in the USA. The purpose of the project is to make an optimization on those airports to reduce the delay time and taxi in and taxi out time of the airports by using the 2015 flight data. Written and done by Mr. Gungor
 
 # weather data has been collected from https://darksky.net/dev/docs#time-machine-request by using API KEY and epoch time.
 
